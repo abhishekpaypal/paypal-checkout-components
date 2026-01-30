@@ -1,3 +1,9 @@
+## <small>5.0.400-alpha.1 (2026-01-30)</small>
+
+* temp: prepare for alpha release - node package ([b2b0373](https://github.com/paypal/paypal-checkout-components/commit/b2b0373))
+
+
+
 ## <small>5.0.400-alpha.0 (2026-01-30)</small>
 
 *  Adding p24 and zimpler payment methods for PL,FI countries (#745) ([4d8c3ea](https://github.com/paypal/paypal-checkout-components/commit/4d8c3ea)), closes [#745](https://github.com/paypal/paypal-checkout-components/issues/745)
