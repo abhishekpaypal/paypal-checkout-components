@@ -1,3 +1,9 @@
+## <small>5.0.400-alpha.2 (2026-02-04)</small>
+
+* package generation for clientsdknodeweb consumption ([8cac6e5](https://github.com/paypal/paypal-checkout-components/commit/8cac6e5))
+
+
+
 ## <small>5.0.400-alpha.1 (2026-01-30)</small>
 
 * temp: prepare for alpha release - node package ([b2b0373](https://github.com/paypal/paypal-checkout-components/commit/b2b0373))
